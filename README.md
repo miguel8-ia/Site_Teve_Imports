@@ -1,3 +1,4 @@
+
 # Tevez Imports — site oficial
 
 Site de apresentação comercial premium da **Tevez Imports**: hero com vídeo em loop, vitrine de produtos com filtros e janela de detalhes, seção de destaques com vídeos em vista explodida e contato direto por WhatsApp. Não há checkout, pagamento, preços nem estoque.
@@ -126,3 +127,5 @@ git log origin/main --oneline             # veja se já existe histórico remoto
 ## Créditos
 
 Next.js, React, Tailwind CSS, Framer Motion, Three.js, Lucide, Space Grotesk e Inter (licenças próprias, via npm).
+=======
+# Site-Tevez-Import
