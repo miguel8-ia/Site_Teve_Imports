@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title,
   description,
+  verification: {
+  google: "Yj8G1Rl8IVWQIvwFyPBlJgFy2aCWgGIsHE6LMVLXJSs",
+},
   applicationName: store.name,
   alternates: configuredSiteUrl ? { canonical: "/" } : undefined,
   manifest: "/site.webmanifest",
